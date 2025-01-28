@@ -1,11 +1,11 @@
-<img src="assets/RAG-img.webp" alt="RAG img" width="500" height="350" />
+<img src="assets/RAG-img.webp" alt="RAG img" width="450" height="350" />
 
 
-# RAG System: Enhancing Semantic Search with OpenAI and Elastic Cloud
+# RAG System: Enhancing Semantic Search with OpenAI and Elastic Cloud 🌐🔍
 
 This project implements a semantic search engine using OpenAI's language models and Elasticsearch. The goal is to enhance search capabilities by understanding the context and meaning of queries rather than relying solely on keyword matching.
 
-## Table of Contents
+## Table of Contents 📋
 
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
@@ -18,15 +18,15 @@ This project implements a semantic search engine using OpenAI's language models 
 
 In this project, we leverage OpenAI's powerful language models to perform semantic search on a dataset indexed in Elasticsearch. By integrating these technologies, the search engine can return more relevant results based on the meaning of the search queries. The project utilizes the "multilingual-e5-small" model deployed in Elasticsearch Cloud for generating embeddings.
 
-## Technologies Used
+## Technologies Used 🛠️
 
-- **Python**: The programming language used for the implementation.
-- **OpenAI API**: For natural language processing and understanding.
-- **Elasticsearch Cloud**: A managed service for Elasticsearch that simplifies setup and scaling.
-- **Machine Learning Model**: "multilingual-e5-small" for generating embeddings.
-- **Jupyter Notebook**: For interactive coding and visualization.
+- **Python** 🐍: The programming language used for the implementation.
+- **OpenAI API** 🤖: For natural language processing and understanding.
+- **Elasticsearch Cloud** ☁️: A managed service for Elasticsearch that simplifies setup and scaling.
+- **Machine Learning Model** 📊: "multilingual-e5-small" for generating embeddings.
+- **Jupyter Notebook** 📓: For interactive coding and visualization.
 
-## Installation
+## Installation ⚙️
 
 To set up the project, follow these steps:
 
@@ -51,7 +51,7 @@ To set up the project, follow these steps:
 7. **Configure Elasticsearch Connection**:
       Update your connection settings in the code to point to your Elasticsearch Cloud instance.
 
-## Usage
+## Usage 🚀
 
    To run the project, open the Jupyter Notebook and execute the cells in order. The notebook includes:
    Data preprocessing steps
@@ -62,7 +62,7 @@ To set up the project, follow these steps:
    
       jupyter notebook Semantic_Search_with_openai_Elasticsearch.ipynb
 
-## Contributing
+## Contributing 🤝
 
    Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
    Fork the repository
@@ -70,18 +70,18 @@ To set up the project, follow these steps:
    Make your changes
    Submit a pull request
 
-## Acknowledgments
+## Acknowledgments 🙏
 
    OpenAI for providing the language models.
    Elasticsearch Cloud for the managed Elasticsearch service.
    The "multilingual-e5-small" model for its embedding capabilities.
 
-## License
+## License 📝
 
    This project is licensed under the MIT License. See the LICENSE file for details.
 
    
-### Notes:
+### Notes: ℹ️
 
 - Make sure to replace placeholders like `yourusername`, `your_api_key`, `Your Name`, and `Your Email` with your actual information.
 - Adjust any sections as necessary to fit your specific project details or requirements. 
