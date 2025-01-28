@@ -1,3 +1,6 @@
+<img src="assets/RAG-img.webp" alt="RAG img" width="500" height="350" />
+
+
 # RAG System: Enhancing Semantic Search with OpenAI and Elastic Cloud
 
 This project implements a semantic search engine using OpenAI's language models and Elasticsearch. The goal is to enhance search capabilities by understanding the context and meaning of queries rather than relying solely on keyword matching.
